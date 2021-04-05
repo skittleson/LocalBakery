@@ -1,4 +1,4 @@
 ﻿Contact: NA
-Expires: 2021-10-05T05:19:47.954Z
+Expires: 2021-10-05T05:26:13.985Z
 Preferred-Languages: en
 Canonical: https://example.localhost/.well-known/security.txt
