@@ -18,7 +18,7 @@
 }
 
 .jumbotron-img {
-  background-image: url("/images/cake-on-display.jpg") !important;
+  background-image: url("https://skittleson.github.io/LocalBakery/images/cake-on-display.jpg") !important;
   background-size: cover !important;
   color: black;
 }
