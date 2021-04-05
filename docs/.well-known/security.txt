@@ -1,4 +1,4 @@
 ﻿Contact: NA
-Expires: 2021-10-05T05:26:13.985Z
+Expires: 2021-10-05T05:34:47.753Z
 Preferred-Languages: en
-Canonical: https://example.localhost/.well-known/security.txt
+Canonical: https://skittleson.github.io/LocalBakery//.well-known/security.txt

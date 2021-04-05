@@ -1,6 +1,6 @@
 ﻿/* TEAM */
 Contact: Leela
-Site: https://example.localhost
+Site: https://skittleson.github.io/LocalBakery/
 
 /* SITE */
 Last update: 2021/04/05 
