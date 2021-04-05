@@ -1,0 +1,39 @@
+<footer class="text-muted bg-dark">
+    <div class="container">
+        <p class="float-right">
+            <a href="#" class="text-white">Back to top</a>
+        </p>
+
+        <div itemprop="aggregateRating" itemscope itemtype="https://schema.org/AggregateRating">
+            <span itemprop="ratingValue">5</span> stars -
+            based on <span itemprop="reviewCount">101</span> reviews
+        </div>
+
+        <div itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
+            {{!-- <span itemprop="streetAddress">1901 Lemur Ave</span> --}}
+            <span itemprop="addressLocality">Tracy</span>,
+            <span itemprop="addressRegion">CA</span>
+            <span itemprop="postalCode">95304-9333</span>
+        </div>
+        {{!-- <span itemprop="telephone">(555) 123-4567</span> --}}
+        <a itemprop="url" href="{{url}}">{{url}}</a>
+
+        <span itemprop="priceRange">$$</span>
+
+
+    </div>
+</footer>
+
+<script async src="/site.js"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+{{!--
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-93963699-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', 'UA-93963699-1');
+</script> --}}
+</body>
+
+</html>

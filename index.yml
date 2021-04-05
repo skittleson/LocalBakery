@@ -1,0 +1,25 @@
+company: Baked Goods by Leela
+author: Leela
+description:
+  Specialty cakes and baked goods bakery in Tracy CA.  Want to add fun or elegance to your special event?  Add beautiful themed designer cakes and baked goods for your guests.  Customers have a selection of designer specialty
+  cakes 🍰 and baked goods with our unique style.
+keywords:
+  - Specialty Cakes
+  - Themed Cakes
+  - Designer Cakes
+  - Specialty Baked Goods
+  - Birthday Cakes
+  - Graduations Cakes
+  - Baby Gender Reveal Cakes
+  - Baby Shower Cakes
+  - Tracy CA
+  - Bakery
+url: https://example.localhost
+email: NA
+js:
+  - src/javascript/site.js
+  - node_modules/jquery/dist/jquery.min.js
+  - node_modules/bootstrap/dist/js/bootstrap.bundle.min.js
+css:
+  - src/css/site.css
+  - node_modules/bootstrap/dist/css/bootstrap.min.css
